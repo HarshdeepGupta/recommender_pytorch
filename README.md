@@ -1,10 +1,10 @@
 # Neural Collaborative Filtering in PyTorch
 
-
+This repository shows you how to implement a Recommender System in PyTorch from scratch.
 
 ## Prepare the dataset
 
-The file u.data is the one picked from ML100K archive. Run the following command to get the train and test split for the dataset.
+The file `u.data` is the one picked from MovieLens 100K archive. Run the following command to get the train and test split for the dataset.
 
 `
 python train_test_split.py
